@@ -1,0 +1,12 @@
+controller\BlockControllerTest.class
+controller\PostControllerTest.class
+controller\CommentControllerTest.class
+controller\ConnectionControllerTest.class
+controller\SearchControllerTest.class
+controller\AuthControllerTest.class
+controller\FollowControllerTest.class
+controller\MessageControllerTest.class
+controller\LikeControllerTest.class
+controller\ProfileControllerTest.class
+controller\DashboardControllerTest.class
+controller\NotificationControllerTest.class
